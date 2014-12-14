@@ -1,0 +1,5 @@
+url             <url to get member list>
+dbname          <postgres database name>
+dbhost          <postgres host>
+dbuser          <postgres user>
+dbpassword      <postgres password>
